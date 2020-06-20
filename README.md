@@ -1,2 +1,14 @@
-# jdbc3
-Demonstração como inserir dados com JDBC
+# JDBC
+## Demonstração como inserir dados
+
+### API:
+* PreparedStatement 
+* executeUpdate 
+* Statement.RETURN_GENERATED_KEYS 
+* getGeneratedKeys 
+
+### Checklist:
+* Inserção simples com preparedStatement  
+* Inserção com recuperação de Id  
+
+
